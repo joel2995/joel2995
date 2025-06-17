@@ -1,27 +1,202 @@
-# 💫 About Me:
-🔭 I’m currently working on: Web Development<br><br>🌱 I’m currently learning: Data Structures and Algorithms (DSA) using Java<br><br>👯 I’m looking to collaborate on: Machine Learning and Web Development projects<br><br>💬 Ask me about:<br><br>My journey as a third-year Computer Science and Engineering student<br>My experience participating in Unfold 2024, Asia’s largest blockchain hackathon<br>📫 Reach me via: joelsundarsingh2005@gmail.com<br><br>
+### **🔧 Development Tools**
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=00F5FF&labelColor=1a1a1a)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=1a1a1a)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00F5FF&labelColor=1a1a1a)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00F5FF&labelColor=1a1a1a)# 🚀 SYSTEM.INITIALIZE() - Backend Architect
 
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  ██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗   ║
+║  ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗  ║
+║  ██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║  ║
+║  ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║  ║
+║  ██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝  ║
+║  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝   ║
+║                    🌌 ENGINEER v3.0.1                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jazzy_joel10/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-sundarsingh-738443252/) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joel2995&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joel2995&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joel2995&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Backend+Systems+Architect;API+Infrastructure+Engineer;Cloud+Native+Developer;Microservices+Specialist)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=joel2995&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joel2995&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joel2995&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛸 **NEURAL.NETWORK.STATUS**
+
+```json
+{
+  "status": "ACTIVE",
+  "role": "Backend Systems Engineer",
+  "level": "CS Engineering Student [Year 3]",
+  "specialization": ["API Development", "System Architecture", "Cloud Infrastructure"],
+  "current_mission": "Building scalable MERN applications",
+  "learning_protocol": "Advanced Python algorithms & System Design",
+  "collaboration_mode": "ENABLED",
+  "contact": "joelsundarsingh2005@gmail.com"
+}
+```
+
+## ⚡ **CORE.DIRECTIVES**
+
+🔥 **PRIMARY_FOCUS**: Building robust backend infrastructures and RESTful APIs  
+🧠 **LEARNING_ALGORITHM**: Mastering Python algorithms & MERN stack architecture  
+🤝 **COLLABORATION_TARGETS**: Full-stack MERN projects, Python backends, API development  
+💡 **EXPERTISE_DOMAINS**: Python development, MERN stack, RESTful APIs, Database design  
+📡 **COMMUNICATION_CHANNEL**: joelsundarsingh2005@gmail.com  
+
+---
+
+## 🌐 **NETWORK.CONNECTIONS**
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=00F5FF&labelColor=000000)](https://www.instagram.com/jazzy_joel10/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=000000)](https://www.linkedin.com/in/joel-sundarsingh-738443252/)
+
+</div>
+
+---
+
+## 🛠️ **TECHNOLOGY.STACK.MATRIX**
+
+### **🔧 Backend Core Systems**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5FF&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F5FF&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F5FF&labelColor=1a1a1a)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00F5FF&labelColor=1a1a1a)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00F5FF&labelColor=1a1a1a)
+
+### **⚙️ MERN Stack & Frameworks**
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00F5FF&labelColor=1a1a1a)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00F5FF&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F5FF&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F5FF&labelColor=1a1a1a)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00F5FF&labelColor=1a1a1a)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00F5FF&labelColor=1a1a1a)
+
+### **🗄️ Database & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00F5FF&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F5FF&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F5FF&labelColor=1a1a1a)
+
+### **🎨 Frontend Technologies**
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F5FF&labelColor=1a1a1a)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F5FF&labelColor=1a1a1a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00F5FF&labelColor=1a1a1a)
+![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=00F5FF&labelColor=1a1a1a)
+
+### **☁️ Cloud & Deployment**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=1a1a1a)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=00F5FF&labelColor=1a1a1a)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00F5FF&labelColor=1a1a1a)
+
+### **🤖 Python Data Science & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=00F5FF&labelColor=1a1a1a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00F5FF&labelColor=1a1a1a)
+![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=00F5FF&labelColor=1a1a1a)
+![Pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00F5FF&labelColor=1a1a1a)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00F5FF&labelColor=1a1a1a)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=00F5FF&labelColor=1a1a1a)
+
+---
+
+## 📊 **SYSTEM.ANALYTICS.DASHBOARD**
+
+<div align="center">
+
+```
+┌─────────────────── PERFORMANCE METRICS ───────────────────┐
+│                                                            │
+│  🔥 Code Commits: ████████████████████ 100%               │
+│  ⚡ API Response: ████████████████████ 99.9%              │
+│  🛡️ System Uptime: ██████████████████ 99.8%              │
+│  🚀 Deploy Success: ███████████████████ 100%              │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joel2995&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joel2995&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joel2995&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🏆 **ACHIEVEMENT.PROTOCOL.UNLOCKED**
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joel2995&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 💭 **DEVELOPER.WISDOM.CACHE**
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+</div>
+
+---
+
+## 🎯 **CONTRIBUTION.MATRIX**
+
+<div align="center">
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=joel2995&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🌟 **MISSION.ACHIEVEMENTS**
+
+```yaml
+experiences:
+  - event: "Unfold 2024"
+    description: "Asia's largest blockchain hackathon participant"
+    technologies: ["Blockchain", "Smart Contracts", "DeFi"]
+    outcome: "Advanced blockchain development skills"
+  
+  - focus: "Backend Architecture"
+    specialization: ["MERN Stack", "Python APIs", "Full-stack Development"]
+    current_learning: ["Advanced Python", "System Architecture"]
+```
+
+---
+
+<div align="center">
+
+## 🔮 **FUTURE.STATE.LOADING...**
+
+```
+[████████████████████████████████████████] 100%
+BACKEND ENGINEER EVOLUTION COMPLETE
+```
+
+**"Building the invisible infrastructure that powers tomorrow's digital world"**
+
+---
+
+<img src="https://visitcount.itsvg.in/api?id=joel2995&icon=0&color=0&pretty=true" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+*🚀 Powered by passion for backend development and fueled by innovation*
+
+**[SYSTEM.STATUS: READY_FOR_COLLABORATION]**
+
+</div>
