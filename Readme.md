@@ -145,86 +145,86 @@
 
 ### 🔐 **Data Download Duplication Alert System**
 - **Tech Stack**: Node.js, MongoDB, SHA-256 hashing, RESTful APIs
-- **Features**: Microservice architecture, secure authentication, intelligent alerting
+- **Features**: Microservice architecture, role-based controls, dynamic alerts
 - **Web Standards**: Clean code, optimized performance, comprehensive documentation
-- **Impact**: 60% reduction in redundant downloads, scalable architecture
+- **Impact**: 60% reduction in redundant downloads, scalable backend architecture
 
 ### 🏪 **Smart Public Distribution System**
 - **Tech Stack**: MERN Stack, MySQL, OTP verification, responsive design
-- **Features**: Multi-role portal, inventory management, secure transactions
-- **Best Practices**: Clean UI/UX, database optimization, security protocols
-- **Impact**: Digital transformation, fraud reduction, streamlined operations
+- **Features**: Multi-role portal (Admin, Delivery, Auditor), FIFO logic, digital audit trails
+- **Best Practices**: Centralized verification, transaction history, inventory tracking
+- **Impact**: Enhanced inventory management, reduced misallocation, digital transformation
 
 ### ⏰ **Eternal Time Capsule**
 - **Tech Stack**: MERN Stack, JWT authentication, MongoDB
-- **Features**: Time-locked messaging, secure API design, responsive themes
-- **Development**: Test-driven development, Git workflow, clean documentation
-- **Impact**: Secure content delivery, user-friendly interface
+- **Features**: Time-locked messaging, secure API design, user-scoped access
+- **Development**: Performance-optimized REST APIs, secure timed content delivery
+- **Impact**: Secure messaging platform, user-friendly interface
 
 ### 📦 **UPS Packaging Recommendation System**
-- **Tech Stack**: Flask, Python, React.js, ML integration, MySQL
-- **Features**: Enterprise-grade solution, real-time processing, scalable backend
-- **Enterprise Focus**: Performance optimization, maintainable code, client requirements
-- **Impact**: Automated logistics, enhanced efficiency, real-time validation
+- **Tech Stack**: Flask, Python, React.js, ML integration, Scikit-learn
+- **Features**: ML-powered packaging engine, real-time logistics alerts, rule-based inference
+- **Enterprise Focus**: Automated logistics monitoring, proactive flow optimization
+- **Impact**: Streamlined packaging decisions, enhanced operational efficiency
 
 ---
 
-## 🌟 **HACKATHON.VICTORIES & OPEN.SOURCE.CONTRIBUTIONS**
+## 🌟 **HACKATHON.VICTORIES & ACHIEVEMENTS**
 
 ```yaml
 recent_achievements:
-  - event: "Sports Data Gameathon 2.0 (Dream11)"
+  - event: "Sports Data Gameathon 2.0 (FIFS & Dream11)"
     date: "April 2025"
-    achievement: "AI-driven fantasy sports engine"
-    technologies: ["JavaScript", "Python", "ML Models", "Web APIs"]
-    focus: "Clean code, scalable architecture, performance optimization"
+    achievement: "AI-powered fantasy sports engine"
+    technologies: ["JavaScript", "Python", "ML Models", "Ensemble Learning"]
+    focus: "Credit balancing, player form analysis, strategic AI integration"
   
-  - event: "Unfold 2024 (Blockchain Development)"
+  - event: "Unfold 2024 (CoinDCX, Crowwd Labs)"
     date: "Dec 2024"
-    achievement: "Blockchain-secured GenAI vault"
-    technologies: ["JavaScript", "Smart Contracts", "Web3"]
-    focus: "Security, documentation, enterprise-grade solutions"
+    achievement: "Secure on-chain vault on Aptos + Move"
+    technologies: ["Blockchain", "Move Language", "Smart Contracts"]
+    focus: "Granular access control, blockchain-based permissions"
   
   - event: "Smart India Hackathon"
     date: "Sep 2024"
-    achievement: "Duplication detection backend"
-    technologies: ["Node.js", "MySQL", "Cryptographic Hashing"]
-    focus: "Government solutions, scalable backend, clean code"
+    achievement: "Public data duplication detection system"
+    technologies: ["Node.js", "MongoDB", "SHA-256 Hashing"]
+    focus: "Government solutions, scalable backend, data integrity"
   
   - event: "Hackmaggedon"
     date: "Aug 2024"
-    achievement: "Real-time anomaly detection"
-    technologies: ["Python", "JavaScript", "ML Integration"]
-    focus: "Real-time processing, web-based interface"
+    achievement: "Real-time anomaly detection pipeline"
+    technologies: ["Python", "AI Models", "Pose Estimation"]
+    focus: "Real-time processing, ML classification, computer vision"
 
 awards:
   - "Winner - Internet Ignite Hackathon (REC IEEE CS)"
   - "Top 10 Finalist - Dream11 Gameathon (1000+ teams)"
   - "1st Prize - Paper Presentation (National Techfest)"
 
-open_source_focus:
-  - "Quality pull requests to established repositories"
-  - "Code contributions with proper documentation"
-  - "Bug fixes and feature enhancements"
-  - "Community collaboration and code reviews"
+professional_experience:
+  - company: "United Parcel Service (UPS)"
+    role: "Software Development Intern"
+    duration: "Aug – Sep 2024"
+    contributions: ["ML packaging recommendation engine", "React-based UI integration", "Automated logistics alerts"]
 ```
 
 ---
 
-## 💻 **WEB.DEVELOPMENT.EXPERTISE**
+## 💻 **TECHNICAL.EXPERTISE**
 
-### **🏗️ Architecture & Best Practices**
-- **Clean Code**: Readable, maintainable, and well-documented codebases
-- **Responsive Design**: Mobile-first approach, cross-browser compatibility
-- **Performance**: Optimized loading times, efficient database queries
-- **Security**: Input validation, authentication, secure coding practices
-- **Testing**: Unit testing, debugging, quality assurance
+### **🏗️ Core Development Skills**
+- **Languages**: C, Java, JavaScript, Python
+- **Backend**: Node.js, Express.js, Flask, REST APIs, JWT authentication
+- **Frontend**: React.js, responsive design, cross-browser compatibility
+- **Databases**: MongoDB, MySQL, Mongoose
+- **Tools**: Git & GitHub, Postman, Docker, Vercel
 
 ### **🔧 Development Workflow**
-- **Version Control**: Git workflow, branching strategies, collaborative development
-- **Documentation**: Comprehensive README files, inline code comments, technical docs
-- **Project Management**: Agile methodologies, deadline management, client communication
-- **Problem Solving**: Debugging skills, algorithmic thinking, solution architecture
+- **Version Control**: Git workflow, collaborative development, code reviews
+- **API Design**: RESTful services, secure endpoints, performance optimization
+- **Problem Solving**: Debugging, algorithmic thinking, scalable architecture
+- **Testing**: Quality assurance, system validation, performance testing
 
 ---
 
@@ -239,7 +239,7 @@ open_source_focus:
 
 ## 🔬 **RESEARCH.PUBLICATION**
 
-Published research on **AI-based Dream11 predictor** integrating ensemble models with strategic heuristics - demonstrating ability to combine web technologies with advanced algorithms for enterprise solutions.
+Published research on **AI-based Dream11 predictor** using ensemble ML models and expert strategy alignment - demonstrating ability to combine machine learning with strategic heuristics for sports analytics applications.
 
 ---
 
@@ -252,46 +252,57 @@ Published research on **AI-based Dream11 predictor** integrating ensemble models
 
 ---
 
-## 🚀 **ENTERPRISE.READY.SKILLS**
+## 🚀 **PROFESSIONAL.SKILLS**
 
-### **🌐 Web Development Fundamentals**
-- **HTML5/CSS3**: Semantic markup, responsive design, modern CSS features
-- **JavaScript**: ES6+, DOM manipulation, async programming, API integration
-- **PHP**: Object-oriented programming, database integration, security practices
-- **MySQL**: Database design, query optimization, data modeling
+### **🌐 Backend Development**
+- **Node.js**: Express.js, middleware, scalable server architecture
+- **Python**: Flask, Scikit-learn, ML integration, data processing
+- **Database Design**: MongoDB, MySQL, query optimization, data modeling
+- **API Development**: REST APIs, authentication, secure endpoints
 
 ### **🔒 Security & Performance**
-- **Authentication**: JWT, session management, secure user systems
-- **Database Security**: SQL injection prevention, data validation
-- **Performance**: Code optimization, caching strategies, load handling
-- **Best Practices**: Clean architecture, documentation, testing
+- **Authentication**: JWT, session management, role-based access control
+- **Data Security**: SHA-256 hashing, input validation, secure coding practices
+- **Performance**: Code optimization, database efficiency, scalable solutions
+- **Best Practices**: Clean architecture, documentation, testing protocols
 
 ### **🤝 Collaboration & Communication**
-- **Remote Work**: Effective communication, proactive updates, deadline management
-- **Team Collaboration**: Code reviews, pair programming, knowledge sharing
-- **Client Focus**: Requirement understanding, solution delivery, feedback integration
-- **Continuous Learning**: Staying updated with web technologies, best practices
+- **Team Collaboration**: Cross-functional teamwork, code reviews, pair programming
+- **Project Management**: Agile methodologies, rapid prototyping, deadline management
+- **Problem Solving**: Critical thinking, adaptability, solution architecture
+- **Communication**: Technical documentation, client interaction, presentation skills
 
 ---
 
-## 🎯 **CURRENT.LEARNING.PATH**
+## 🎓 **EDUCATION**
+
+### **Rajalakshmi Engineering College** (2022 – 2026)
+- **Degree**: B.E. Computer Science and Engineering
+- **CGPA**: 7.97
+- **Location**: Chennai, Tamil Nadu
+
+### **Academic Excellence**
+- **HSC (Class 12)**: 94.5% - Shree Niketan Hr. Sec. School (2022)
+- **SSLC (Class 10)**: 92.20% - Shree Niketan Hr. Sec. School (2020)
+
+---
+
+## 🎯 **CURRENT.DEVELOPMENT.PATH**
 
 ```
 [████████████████████████████████████████] 100%
-WORDPRESS & ENTERPRISE WEB DEVELOPMENT
+BACKEND DEVELOPMENT & SCALABLE SYSTEMS
 ```
 
 **Current Focus:**
-- **WordPress Development**: Plugin development, theme customization, CMS mastery
-- **PHP Advanced**: Frameworks, OOP patterns, performance optimization
-- **Enterprise Solutions**: Scalable architectures, security best practices
-- **Open Source**: Quality contributions, community collaboration
+- **Machine Learning Integration**: AI-driven applications, data processing
+- **Enterprise Solutions**: Secure architectures, performance optimization
+- **Open Source**: Community contributions, collaborative development
 
-**Learning Resources:**
-- rtCamp WordPress Development Course (In Progress)
-- Advanced PHP and MySQL development
-- WordPress plugin and theme development
-- Enterprise web application architecture
+**Professional Goal:**
+- Building scalable backend solutions for enterprise applications
+- Integrating AI/ML capabilities with robust web services
+- Contributing to open-source projects and developer communities
 
 ---
 
@@ -311,10 +322,10 @@ WORDPRESS & ENTERPRISE WEB DEVELOPMENT
 
 ```
 [████████████████████████████████████████] 100%
-ENTERPRISE WEB DEVELOPER EVOLUTION IN PROGRESS
+SOFTWARE ENGINEER EVOLUTION IN PROGRESS
 ```
 
-**"Building scalable, secure, and maintainable web solutions that power enterprise applications and serve millions of users worldwide"**
+**"Building scalable, secure, and maintainable backend solutions that power enterprise applications and serve real-world needs"**
 
 <img src="https://visitcount.itsvg.in/api?id=joel2995&icon=0&color=0&pretty=true" alt="Profile Views" />
 
@@ -324,8 +335,11 @@ ENTERPRISE WEB DEVELOPER EVOLUTION IN PROGRESS
 
 <div align="center">
 
-*🚀 Ready to contribute to open-source projects and build enterprise-grade WordPress solutions*
+*🚀 Ready to contribute to innovative projects and build enterprise-grade solutions*
 
-**[SYSTEM.STATUS: READY_FOR_RTCAMP_COLLABORATION]**
+**Contact**: +91 877 872 8680 | joelsundarsingh2005@gmail.com  
+**Links**: [LinkedIn](https://linkedin.com/in/joel-sundarsingh) | [GitHub](https://github.com/joel2995) | [Portfolio](https://joel2995.github.io) | [LeetCode](https://leetcode.com/joel2995)
+
+**[SYSTEM.STATUS: READY_FOR_rtCamp_COLLABORATION]**
 
 </div>
