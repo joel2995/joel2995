@@ -77,7 +77,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F5FF&labelColor=1a1a1a)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00F5FF&labelColor=1a1a1a)
 
-### **🚀 CMS & Backend Frameworks**
+### **🚀 Backend Frameworks**
 
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=00F5FF&labelColor=1a1a1a)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F5FF&labelColor=1a1a1a)
@@ -216,7 +216,7 @@ professional_experience:
 ### **🏗️ Core Development Skills**
 - **Languages**: C, Java, JavaScript, Python
 - **Backend**: Node.js, Express.js, Flask, REST APIs, JWT authentication
-- **Frontend**: React.js, responsive design, cross-browser compatibility
+- **Frontend**: React.js, responsive design
 - **Databases**: MongoDB, MySQL, Mongoose
 - **Tools**: Git & GitHub, Postman, Docker, Vercel
 
@@ -224,7 +224,6 @@ professional_experience:
 - **Version Control**: Git workflow, collaborative development, code reviews
 - **API Design**: RESTful services, secure endpoints, performance optimization
 - **Problem Solving**: Debugging, algorithmic thinking, scalable architecture
-- **Testing**: Quality assurance, system validation, performance testing
 
 ---
 
