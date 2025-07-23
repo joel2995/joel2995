@@ -146,7 +146,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joel2995&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/joel2995)
+![trophy](https://github-trophies.vercel.app/?username=joel2995&theme=onedark&no-bg=true&no-frame=false&row=2&column=3&margin-w=15&margin-h=15)
 
 </div>
 
