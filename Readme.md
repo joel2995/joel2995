@@ -61,8 +61,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=000000)](https://www.linkedin.com/in/joel-sundarsingh-738443252/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=000000)](https://github.com/joel2995)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00F5FF&labelColor=000000)](https://leetcode.com/joel2995)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=000000)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00F5FF&labelColor=000000)](https://leetcode.com/u/JoelSundarsingh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=000000)](https://joel-portfolio-nxt.vercel.app/)
 
 </div>
 
@@ -337,7 +337,7 @@ SOFTWARE ENGINEER EVOLUTION IN PROGRESS
 *🚀 Ready to contribute to innovative projects and build enterprise-grade solutions*
 
 **Contact**: +91 877 872 8680 | joelsundarsingh2005@gmail.com  
-**Links**: [LinkedIn](https://linkedin.com/in/joel-sundarsingh) | [GitHub](https://github.com/joel2995) | [Portfolio](https://joel2995.github.io) | [LeetCode](https://leetcode.com/joel2995)
+**Links**: [LinkedIn]((https://www.linkedin.com/in/joel-sundarsingh-738443252/)) | [GitHub](https://github.com/joel2995) | [Portfolio](https://joel-portfolio-nxt.vercel.app/) | [LeetCode](https://leetcode.com/u/JoelSundarsingh/))
 
 **[SYSTEM.STATUS: READY_FOR_rtCamp_COLLABORATION]**
 
