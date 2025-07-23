@@ -134,9 +134,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joel2995&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true)
 
-### **⏰ Coding Time Analytics**
+### **⏰ Most Used Languages**
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joel2995&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joel2995&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
 
 </div>
 
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joel2995&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joel2995&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/joel2995)
 
 </div>
 
@@ -287,8 +287,6 @@ SOFTWARE ENGINEER EVOLUTION IN PROGRESS
 ```
 
 **"Building scalable, secure, and maintainable backend solutions that power enterprise applications and serve real-world needs"**
-
-<img src="https://komarev.com/ghpvc/?username=joel2995&label=Profile%20views&color=0e75b6&style=flat" alt="joel2995" />
 
 </div>
 
