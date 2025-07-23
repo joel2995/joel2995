@@ -114,12 +114,12 @@
 <div align="center">
 
 ```
-┌─────────────────── PERFORMANCE METRICS ───────────────────┐
+┌─────────────────── REAL-TIME METRICS ──────────────────────┐
 │                                                            │
-│  🔥 Code Quality: ████████████████████ 95%                │
-│  ⚡ Web Performance: ████████████████ 92%                 │
-│  🛡️ Security Standards: ██████████████ 88%               │
-│  🚀 Open Source PRs: ███████████████████ 100%            │
+│  🔥 Active Projects: ██████████████████ 92%               │
+│  ⚡ Code Frequency: ████████████████ 88%                  │
+│  🛡️ Commit Quality: ██████████████████ 95%               │
+│  🚀 Contribution Streak: ████████████ 78%                 │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -130,6 +130,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joel2995&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
 
+### **📈 Development Activity**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joel2995&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true)
+
+### **⏰ Coding Time Analytics**
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joel2995&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
+
 </div>
 
 ---
@@ -138,19 +146,7 @@
 
 <div align="center">
 
-### **🥇 Hackathon Victories**
-- **Winner** — Internet Ignite Hackathon (REC IEEE CS)
-- **Top 10 Finalist** — Dream11 Gameathon (1000+ teams)
-- **1st Prize** — Paper Presentation (National Techfest)
-
-### **🎓 Certifications**
-- **JavaScript for Web Designers** — LinkedIn Learning
-- **Web Development Certification** — Sudharsanam IT Academy
-- **OCI Certified Foundations Associate** — Oracle Cloud Infrastructure
-- **NPTEL: Human Computer Interaction** — Gold Medal (Government of India)
-
-### **📚 Publications**
-- **Research Publication**: AI-based Dream11 predictor using ensemble ML models and expert strategy alignment
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joel2995&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </div>
 
@@ -184,7 +180,7 @@
 
 ---
 
-## 🌟 **HACKATHON.VICTORIES & ACHIEVEMENTS**
+## 🌟 **HACKATHON.VICTORIES & PROFESSIONAL.EXPERIENCE**
 
 ```yaml
 recent_achievements:
@@ -212,55 +208,21 @@ recent_achievements:
     technologies: ["Python", "AI Models", "Pose Estimation"]
     focus: "Real-time processing, ML classification, computer vision"
 
-awards:
-  - "Winner - Internet Ignite Hackathon (REC IEEE CS)"
-  - "Top 10 Finalist - Dream11 Gameathon (1000+ teams)"
-  - "1st Prize - Paper Presentation (National Techfest)"
-
 professional_experience:
   - company: "United Parcel Service (UPS)"
     role: "Software Development Intern"
     duration: "Aug – Sep 2024"
     contributions: ["ML packaging recommendation engine", "React-based UI integration", "Automated logistics alerts"]
+
+certifications:
+  - "JavaScript for Web Designers — LinkedIn Learning"
+  - "Web Development Certification — Sudharsanam IT Academy"
+  - "OCI Certified Foundations Associate — Oracle Cloud Infrastructure"
+  - "NPTEL: Human Computer Interaction — Gold Medal (Government of India)"
+
+research_publication:
+  - "AI-based Dream11 predictor using ensemble ML models and expert strategy alignment"
 ```
-
----
-
-## 💻 **TECHNICAL.EXPERTISE**
-
-### **🏗️ Core Development Skills**
-- **Languages**: C, Java, JavaScript, Python
-- **Backend**: Node.js, Express.js, Flask, REST APIs, JWT authentication
-- **Frontend**: React.js, responsive design
-- **Databases**: MongoDB, MySQL, Mongoose
-- **Tools**: Git & GitHub, Postman, Docker, Vercel
-
-### **🔧 Development Workflow**
-- **Version Control**: Git workflow, collaborative development, code reviews
-- **API Design**: RESTful services, secure endpoints, performance optimization
-- **Problem Solving**: Debugging, algorithmic thinking, scalable architecture
-
----
-
-## 🚀 **PROFESSIONAL.SKILLS**
-
-### **🌐 Backend Development**
-- **Node.js**: Express.js, middleware, scalable server architecture
-- **Python**: Flask, Scikit-learn, ML integration, data processing
-- **Database Design**: MongoDB, MySQL, query optimization, data modeling
-- **API Development**: REST APIs, authentication, secure endpoints
-
-### **🔒 Security & Performance**
-- **Authentication**: JWT, session management, role-based access control
-- **Data Security**: SHA-256 hashing, input validation, secure coding practices
-- **Performance**: Code optimization, database efficiency, scalable solutions
-- **Best Practices**: Clean architecture, documentation, testing protocols
-
-### **🤝 Collaboration & Communication**
-- **Team Collaboration**: Cross-functional teamwork, code reviews, pair programming
-- **Project Management**: Agile methodologies, rapid prototyping, deadline management
-- **Problem Solving**: Critical thinking, adaptability, solution architecture
-- **Communication**: Technical documentation, client interaction, presentation skills
 
 ---
 
@@ -326,6 +288,8 @@ SOFTWARE ENGINEER EVOLUTION IN PROGRESS
 
 **"Building scalable, secure, and maintainable backend solutions that power enterprise applications and serve real-world needs"**
 
+<img src="https://komarev.com/ghpvc/?username=joel2995&label=Profile%20views&color=0e75b6&style=flat" alt="joel2995" />
+
 </div>
 
 ---
@@ -337,6 +301,6 @@ SOFTWARE ENGINEER EVOLUTION IN PROGRESS
 **Contact**: +91 877 872 8680 | joelsundarsingh2005@gmail.com  
 **Links**: [LinkedIn](https://www.linkedin.com/in/joel-sundarsingh-738443252/) | [GitHub](https://github.com/joel2995) | [Portfolio](https://joel-portfolio-nxt.vercel.app/) | [LeetCode](https://leetcode.com/u/JoelSundarsingh/)
 
-**[SYSTEM.STATUS: READY_FOR_COLLABORATION]**
+**[SYSTEM.STATUS: READY_FOR_rtCamp_COLLABORATION]**
 
 </div>
