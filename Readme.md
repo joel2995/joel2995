@@ -337,7 +337,7 @@ SOFTWARE ENGINEER EVOLUTION IN PROGRESS
 *🚀 Ready to contribute to innovative projects and build enterprise-grade solutions*
 
 **Contact**: +91 877 872 8680 | joelsundarsingh2005@gmail.com  
-**Links**: [LinkedIn]((https://www.linkedin.com/in/joel-sundarsingh-738443252/)) | [GitHub](https://github.com/joel2995) | [Portfolio](https://joel-portfolio-nxt.vercel.app/) | [LeetCode](https://leetcode.com/u/JoelSundarsingh/))
+**Links**: [LinkedIn](https://www.linkedin.com/in/joel-sundarsingh-738443252/) | [GitHub](https://github.com/joel2995) | [Portfolio](https://joel-portfolio-nxt.vercel.app/) | [LeetCode](https://leetcode.com/u/JoelSundarsingh/))
 
 **[SYSTEM.STATUS: READY_FOR_rtCamp_COLLABORATION]**
 
