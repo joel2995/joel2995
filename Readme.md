@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=1a1a1a)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00F5FF&labelColor=1a1a1a)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00F5FF&labelColor=1a1a1a)
-![Composer](https://img.shields.io/badge/Composer-000000?style=for-the-badge&logo=composer&logoColor=00F5FF&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00F5FF&labelColor=1a1a1a)
 
 ---
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;WordPress+Developer;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Backend+Developer;Open+Source+Contributor)
 
 </div>
 
@@ -35,9 +35,9 @@
   "status": "ACTIVE",
   "role": "Associate Software Engineer (Web Development)",
   "level": "CS Engineering Student [Year 4]",
-  "specialization": ["WordPress Development", "PHP", "JavaScript", "Web Solutions"],
-  "current_mission": "Building scalable web solutions with WordPress & modern frameworks",
-  "learning_protocol": "PHP, WordPress CMS, Open Source Contribution",
+  "specialization": ["Backend Development", "PHP", "JavaScript", "Web Solutions"],
+  "current_mission": "Building scalable web solutions with modern frameworks",
+  "learning_protocol": "Node.js, Python, Open Source Contribution",
   "collaboration_mode": "ENABLED",
   "contact": "joelsundarsingh2005@gmail.com"
 }
@@ -47,10 +47,10 @@
 
 ## ⚡ **CORE.DIRECTIVES**
 
-🔥 **PRIMARY_FOCUS**: Web development with PHP, JavaScript, WordPress CMS for enterprise solutions
-🧠 **LEARNING_ALGORITHM**: Mastering WordPress development, PHP frameworks, and web fundamentals
-🤝 **COLLABORATION_TARGETS**: Open-source projects, WordPress plugins, enterprise web solutions
-💡 **EXPERTISE_DOMAINS**: Web development, MERN stack, REST APIs, WordPress ecosystem
+🔥 **PRIMARY_FOCUS**: Backend development with Node.js, Python, and JavaScript for enterprise solutions
+🧠 **LEARNING_ALGORITHM**: Mastering backend frameworks, REST APIs, and web fundamentals
+🤝 **COLLABORATION_TARGETS**: Open-source projects, enterprise web solutions, scalable systems
+💡 **EXPERTISE_DOMAINS**: Backend development, MERN stack, REST APIs, AI integration
 📡 **COMMUNICATION_CHANNEL**: [joelsundarsingh2005@gmail.com](mailto:joelsundarsingh2005@gmail.com)
 
 ---
@@ -70,39 +70,42 @@
 
 ## 🛠️ **TECHNOLOGY.STACK.MATRIX**
 
+### **💻 Programming Languages**
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F5FF&labelColor=1a1a1a)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00F5FF&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F5FF&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5FF&labelColor=1a1a1a)
+
 ### **💻 Core Web Technologies**
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F5FF&labelColor=1a1a1a)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F5FF&labelColor=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F5FF&labelColor=1a1a1a)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00F5FF&labelColor=1a1a1a)
 
-### **🚀 Backend Frameworks**
+### **🚀 Frameworks & Libraries**
 
-![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=00F5FF&labelColor=1a1a1a)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F5FF&labelColor=1a1a1a)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00F5FF&labelColor=1a1a1a)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F5FF&labelColor=1a1a1a)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00F5FF&labelColor=1a1a1a)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00F5FF&labelColor=1a1a1a)
+![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongodb&logoColor=00F5FF&labelColor=1a1a1a)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00F5FF&labelColor=1a1a1a)
 
 ### **🗄️ Database & Storage**
 
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F5FF&labelColor=1a1a1a)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00F5FF&labelColor=1a1a1a)
 
-### **🔧 Development Tools & Languages**
+### **🔧 Tools & Platforms**
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F5FF&labelColor=1a1a1a)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00F5FF&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5FF&labelColor=1a1a1a)
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=00F5FF&labelColor=1a1a1a)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=1a1a1a)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00F5FF&labelColor=1a1a1a)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00F5FF&labelColor=1a1a1a)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=1a1a1a)
-
-### **🤖 AI & Libraries**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00F5FF&labelColor=1a1a1a)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00F5FF&labelColor=1a1a1a)
-![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongodb&logoColor=00F5FF&labelColor=1a1a1a)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=00F5FF&labelColor=1a1a1a)
 
 ---
 
@@ -135,7 +138,19 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joel2995&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
+### **🥇 Hackathon Victories**
+- **Winner** — Internet Ignite Hackathon (REC IEEE CS)
+- **Top 10 Finalist** — Dream11 Gameathon (1000+ teams)
+- **1st Prize** — Paper Presentation (National Techfest)
+
+### **🎓 Certifications**
+- **JavaScript for Web Designers** — LinkedIn Learning
+- **Web Development Certification** — Sudharsanam IT Academy
+- **OCI Certified Foundations Associate** — Oracle Cloud Infrastructure
+- **NPTEL: Human Computer Interaction** — Gold Medal (Government of India)
+
+### **📚 Publications**
+- **Research Publication**: AI-based Dream11 predictor using ensemble ML models and expert strategy alignment
 
 </div>
 
@@ -227,30 +242,6 @@ professional_experience:
 
 ---
 
-## 📚 **CERTIFICATIONS.ACQUIRED**
-
-- **JavaScript for Web Designers** — LinkedIn Learning
-- **Web Development Certification** — Sudharsanam IT Academy
-- **OCI Certified Foundations Associate** — Oracle Cloud Infrastructure
-- **NPTEL: Human Computer Interaction** — Gold Medal (Government of India)
-
----
-
-## 🔬 **RESEARCH.PUBLICATION**
-
-Published research on **AI-based Dream11 predictor** using ensemble ML models and expert strategy alignment - demonstrating ability to combine machine learning with strategic heuristics for sports analytics applications.
-
----
-
-## 👥 **COMMUNITY.INVOLVEMENT & LEADERSHIP**
-
-- **Co-Founder** — Crypto Cortex-Crew (Technology Community)
-- **Developer** — Nex Fellow (Open Source Community)
-- **Event Manager** — Synthara (Open Source Community)
-- **Director of Ethics** — LEO Club (Leadership & Community Service)
-
----
-
 ## 🚀 **PROFESSIONAL.SKILLS**
 
 ### **🌐 Backend Development**
@@ -294,14 +285,23 @@ BACKEND DEVELOPMENT & SCALABLE SYSTEMS
 ```
 
 **Current Focus:**
-- **Machine Learning Integration**: AI-driven applications, data processing
-- **Enterprise Solutions**: Secure architectures, performance optimization
 - **Open Source**: Community contributions, collaborative development
+- **Enterprise Solutions**: Secure architectures, performance optimization
+- **Machine Learning Integration**: AI-driven applications, data processing
 
 **Professional Goal:**
 - Building scalable backend solutions for enterprise applications
 - Integrating AI/ML capabilities with robust web services
 - Contributing to open-source projects and developer communities
+
+---
+
+## 👥 **COMMUNITY.INVOLVEMENT & LEADERSHIP**
+
+- **Co-Founder** — Crypto Cortex-Crew (Technology Community)
+- **Developer** — Nex Fellow (Open Source Community)
+- **Event Manager** — Synthara (Open Source Community)
+- **Director of Ethics** — LEO Club (Leadership & Community Service)
 
 ---
 
@@ -326,8 +326,6 @@ SOFTWARE ENGINEER EVOLUTION IN PROGRESS
 
 **"Building scalable, secure, and maintainable backend solutions that power enterprise applications and serve real-world needs"**
 
-<img src="https://visitcount.itsvg.in/api?id=joel2995&icon=0&color=0&pretty=true" alt="Profile Views" />
-
 </div>
 
 ---
@@ -337,8 +335,8 @@ SOFTWARE ENGINEER EVOLUTION IN PROGRESS
 *🚀 Ready to contribute to innovative projects and build enterprise-grade solutions*
 
 **Contact**: +91 877 872 8680 | joelsundarsingh2005@gmail.com  
-**Links**: [LinkedIn](https://www.linkedin.com/in/joel-sundarsingh-738443252/) | [GitHub](https://github.com/joel2995) | [Portfolio](https://joel-portfolio-nxt.vercel.app/) | [LeetCode](https://leetcode.com/u/JoelSundarsingh/))
+**Links**: [LinkedIn](https://www.linkedin.com/in/joel-sundarsingh-738443252/) | [GitHub](https://github.com/joel2995) | [Portfolio](https://joel-portfolio-nxt.vercel.app/) | [LeetCode](https://leetcode.com/u/JoelSundarsingh/)
 
-**[SYSTEM.STATUS: READY_FOR_rtCamp_COLLABORATION]**
+**[SYSTEM.STATUS: READY_FOR_COLLABORATION]**
 
 </div>
