@@ -126,8 +126,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joel2995&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=joel2995&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)
-
+![Streak Badge](https://img.shields.io/badge/GitHub_Streak-Active-brightgreen?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=1a1a1a)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joel2995&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
 
